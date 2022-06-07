@@ -15,3 +15,30 @@ vendor
 # npm dependencies
 node_modules
 package-lock.json
+
+# Template
+2022-02-02-Template.md
+
+# Nuevas máquinas
+2021-12-04-Previse-Writeup-HackTheBox.md
+images/HTB/Previse
+
+2021-12-11-Driver-Writeup-HackTheBox.md
+images/HTB/Driver
+
+images/HTB/Blackfield
+images/HTB/Meta
+
+images/HTB/Paper
+images/HTB/RouterSpace
+images/HTB/Pandora
+
+# Pendiente de revisión
+
+2021-11-26-Forest-Writeup-HackTheBox.md
+
+
+images/HTB/Backdoor
+
+# Otros post
+2022-03-23-Utilizar-AWS-DataSync-para-migrar-On-Premise-data.md
